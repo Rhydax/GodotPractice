@@ -6,7 +6,11 @@
 
 [node name="Sprite" type="Sprite" parent="."]
 
+transform/pos = Vector2( -1.50732, 0 )
 texture = ExtResource( 1 )
 centered = false
+__meta__ = {
+"_edit_lock_": true
+}
 
 
